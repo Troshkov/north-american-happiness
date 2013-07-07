@@ -1,0 +1,88 @@
+============================================
+= Blender 2.64 (sub 0) System Information =
+============================================
+
+
+Blender:
+============================================
+
+version 2.64 (sub 0), revision b'51232'. b'Release'
+build date: b'2012-10-09', b'21:33:34'
+platform: b'Windows:64bit'
+binary path: 'C:\\Program Files\\Blender Foundation\\Blender\\blender.exe'
+build cflags: b'/nologo /Ob1 /J /W1 /Gd /we4013 /wd4018 /wd4244 /wd4305 /wd4800 /wd4065 /wd4267 /openmp -O2 -DNDEBUG -DWIN32 -D_CONSOLE -D_LIB -D_CRT_SECURE_NO_DEPRECATE -DOPJ_STATIC -DWIN64 -DWITH_MOD_FLUID -DWITH_MOD_OCEANSIM -D__LITTLE_ENDIAN__ -DWITH_AUDASPACE'
+build cxxflags: b'/nologo /Ob1 /J /W1 /Gd /we4013 /wd4018 /wd4244 /wd4305 /wd4800 /wd4065 /wd4267 /openmp /EHsc -O2 -DNDEBUG -DWIN32 -D_CONSOLE -D_LIB -D_CRT_SECURE_NO_DEPRECATE -DOPJ_STATIC -DWIN64 -DWITH_MOD_FLUID -DWITH_MOD_OCEANSIM -D__LITTLE_ENDIAN__ -DWITH_AUDASPACE'
+build linkflags: b'/SUBSYSTEM:CONSOLE /MACHINE:X64 /STACK:2097152 /OPT:NOREF /INCREMENTAL:NO /NODEFAULTLIB:msvcrt.lib /NODEFAULTLIB:msvcmrt.lib /NODEFAULTLIB:msvcurt.lib /NODEFAULTLIB:msvcrtd.lib'
+build system: b'SCons'
+
+Python:
+============================================
+
+version: 3.2 (r32:88445, Mar  2 2011, 16:59:21) [MSC v.1500 64 bit (AMD64)]
+paths:
+  'C:\\Program Files\\Blender Foundation\\Blender\\2.64\\scripts\\addons'
+	'C:\\Program Files\\Blender Foundation\\Blender\\2.64\\scripts\\startup'
+	'C:\\Program Files\\Blender Foundation\\Blender\\2.64\\scripts\\modules'
+	'C:\\Program Files\\Blender Foundation\\Blender\\python32.zip'
+	'C:\\Program Files\\Blender Foundation\\Blender\\2.64\\python\\DLLs'
+	'C:\\Program Files\\Blender Foundation\\Blender\\2.64\\python\\lib'
+	'C:\\Program Files\\Blender Foundation\\Blender'
+	'C:\\Program Files\\Blender Foundation\\Blender\\2.64\\scripts\\addons\\modules'
+	'C:\\Users\\van_Kalsing\\AppData\\Roaming\\Blender Foundation\\Blender\\2.64\\scripts\\addons\\modules'
+
+Directories:
+============================================
+
+scripts: ['C:\\Program Files\\Blender Foundation\\Blender\\2.64\\scripts']
+user scripts: 'C:\\Users\\van_Kalsing\\AppData\\Roaming\\Blender Foundation\\Blender\\2.64\\scripts'
+pref scripts: None
+datafiles: 'C:\\Users\\van_Kalsing\\AppData\\Roaming\\Blender Foundation\\Blender\\2.64\\datafiles\\'
+config: 'C:\\Users\\van_Kalsing\\AppData\\Roaming\\Blender Foundation\\Blender\\2.64\\config\\'
+scripts : 'C:\\Users\\van_Kalsing\\AppData\\Roaming\\Blender Foundation\\Blender\\2.64\\scripts\\'
+autosave: 'C:\\Users\\van_Kalsing\\AppData\\Roaming\\Blender Foundation\\Blender\\2.64\\autosave\\'
+tempdir: 'C:\\Users\\VAN_KA~1\\AppData\\Local\\Temp\\'
+
+FFmpeg:
+============================================
+
+'avcodec':'   ''53, 60, 100'
+'avdevice':'  ''53,  4, 100'
+'avformat':'  ''53, 31, 100'
+'avutil':'    ''51, 34, 101'
+'swscale':'   '' 2,  1, 100'
+
+OpenGL
+============================================
+
+renderer:	'Mobile Intel(R) 4 Series Express Chipset Family'
+vendor:		'Intel'
+version:	'2.1.0 - Build 8.15.10.1855'
+extensions:
+		'GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color'
+		'GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint'
+		'GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp'
+		'GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod'
+		'GL_EXT_rescale_normal GL_EXT_packed_pixels'
+		'GL_EXT_separate_specular_color GL_ARB_multitexture'
+		'GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate'
+		'GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add'
+		'GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add'
+		'GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays'
+		'GL_NV_blend_square GL_ARB_texture_compression'
+		'GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic'
+		'GL_ARB_texture_border_clamp GL_ARB_point_parameters'
+		'GL_ARB_texture_env_combine GL_ARB_texture_env_dot3'
+		'GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc'
+		'GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs'
+		'GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle'
+		'GL_ARB_fragment_program GL_EXT_stencil_two_side'
+		'GL_ATI_separate_stencil GL_ARB_vertex_buffer_object'
+		'GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader'
+		'GL_ARB_shader_objects GL_ARB_shading_language_100'
+		'GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader'
+		'GL_NV_texgen_reflection GL_ARB_point_sprite'
+		'GL_EXT_blend_equation_separate GL_ARB_depth_texture'
+		'GL_ARB_texture_rectangle GL_ARB_draw_buffers'
+		'GL_ARB_pixel_buffer_object GL_WIN_swap_hint GL_EXT_framebuffer_object'
+		'GL_EXT_texture_sRGB GL_ARB_color_buffer_float GL_ARB_half_float_pixel'
+		'GL_ARB_texture_float GL_NV_conditional_render GL_EXT_texture_swizzle '
